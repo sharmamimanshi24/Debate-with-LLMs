@@ -31,7 +31,7 @@ The goal is to understand how LLMs can be used not only to generate text, but al
 ## Project Structure
 
 ```text
-multi-llm-evaluation-pipeline/
+multi_llm/
 │
 ├── run_pipeline.py
 ├── prompts.csv
