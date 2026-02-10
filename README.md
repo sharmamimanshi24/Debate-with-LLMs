@@ -11,10 +11,12 @@ The goal is to understand how LLMs can be used not only to generate text, but al
 
 ## How It Works
 
-1. Prompts are read from a CSV file  
-2. Llama 3 generates an initial answer  
-3. Llama 3.1 reviews the answer and suggests improvements  
-4. The results are saved to a new CSV file  
+1. Prompts are read from a CSV file
+   <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3e488d48-7b08-4f39-8aa6-3db34ca1a434" />
+
+3. Llama 3 generates an initial answer  
+4. Llama 3.1 reviews the answer and suggests improvements  
+5. The results are saved to a new CSV file  
 
 ---
 
@@ -38,6 +40,3 @@ multi-llm-evaluation-pipeline/
 ├── .gitignore
 └── LICENSE
 
-
-Prompt file:
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bbcd9883-9b43-4721-9dd4-0f0d6c91d9de" />
