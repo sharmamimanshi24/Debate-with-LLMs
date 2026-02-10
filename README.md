@@ -37,3 +37,7 @@ multi-llm-evaluation-pipeline/
 ├── README.md
 ├── .gitignore
 └── LICENSE
+
+
+Prompt file:
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bbcd9883-9b43-4721-9dd4-0f0d6c91d9de" />
