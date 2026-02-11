@@ -2,8 +2,7 @@
 
 This project shows how two Large Language Models (LLMs) can work together to answer and review questions.
 
-One model generates an answer for a given prompt.  
-A second model checks that answer, finds mistakes or missing details, and gives a better or corrected response.
+One model generates an answer for a given prompt. A second model checks that answer, finds mistakes or missing details, and gives a better or corrected response.
 
 The goal is to understand how LLMs can be used not only to generate text, but also to evaluate and improve each other’s output.
 
